@@ -1,6 +1,6 @@
 
 // import './App.css'
-import Joke from './components/Joke'
+// import Joke from './components/Joke'
 import { Meme } from './components/Meme'
 import jokesData from "./data/data.json"
 import memeDetails from "./data/Meme.json"
