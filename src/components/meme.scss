@@ -1,0 +1,22 @@
+.memeBody{
+    display: flex;
+    // align-items: center;
+    // justify-content: center;
+.meme-image{
+    width: 400px;
+}
+
+    .meme{
+     padding:20px 10px;
+     border: 1px solid ;
+     border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #333;
+    color: #eee;
+    flex-basis: 300px;
+    margin: 10px;
+    text-align: center;
+}
+
+}
+
